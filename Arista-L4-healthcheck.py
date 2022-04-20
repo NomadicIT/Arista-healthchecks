@@ -10,7 +10,6 @@
 # Nomadic IT LLC
 # Author: Steve Troxel <steve.troxel@nomadicit.com>
 # License: Apache License, Version 2.0
-# Portions were derived from works available publically, and they remain the property of their respective owners.
 # 
 # Description:
 # This script has a main loop that runs through all defined services to monitor,
